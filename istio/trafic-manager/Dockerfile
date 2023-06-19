@@ -1,0 +1,1 @@
+FROM docker.io/datawire/tel2:2.7.1
