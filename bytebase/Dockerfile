@@ -1,0 +1,1 @@
+FROM bytebase/bytebase:2.22.0
